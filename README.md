@@ -89,11 +89,11 @@ https://damsanti.github.io/peliculas.html
 # 12
 **Busca en la web una fórmula expresada en MathML. Elabora un listado con al menos tres de las etiquetas que utiliza incluyendo su significado.**
 
-<mn> representa un valor numérico.
+\<mn> representa un valor numérico.
 
-<mo> representa un operador.
+\<mo> representa un operador.
 
-<mi> representa un identificador, ya sea el nombre de una función, variables o constantes.
+\<mi> representa un identificador, ya sea el nombre de una función, variables o constantes.
 
 
 # 13

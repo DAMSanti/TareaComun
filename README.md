@@ -49,7 +49,7 @@ Una diferencia fundamental es la funcionalidad, mientras que un lenguaje orienta
 
 El nuevo lenguaje de marcas se llamara DAM, y para poder permitir marcar textos como importantes, de color verde y escrito en ingles usaremos lo siguiente:
     -Para marcar un texto como importante, tendremos que añadir un * al principio y al final del texto para que todo lo que haya por medio nos lo marque como importante. Es un programa el que interpreta y pone en color verde todo el texto que está entre asteriscos.
-        Ejemplo: ![#c5f015] `Hola, soy un texto importante y de color ver` *Hola, soy un texto importante y de color ver*
+        Ejemplo: *Hola, soy un texto importante y de color ver*
 
 # 6
 **Entra en la página web del ayuntamiento de un municipio cualquiera, consulta el código fuente y busca un bloque de código HTML que incumpla con las normas de XML. Indica qué norma o normas incumplen.**
@@ -57,13 +57,10 @@ El nuevo lenguaje de marcas se llamara DAM, y para poder permitir marcar textos 
 No encuentro ninguna etiqueta sin cerrar ni ninguna mayúscula mal puesta.
 
 
-
-
 # 7
 **Explica brevemente qué es un dialecto de XML.**
 
 Los dialectos son variaciones sobre el lenguaje original enfocadas a optimizar procesos específicos. Existen multitud de dialectos XML entre los que destacan SVG para el uso de gráficos vectoriales como los utilizados por programas como Corel Draw o Adobe Illustrator, MathML para representar funciones y notación matemáticas, RSS para sindicación de noticias, GML para representaciones geográficas, y multitud más.
-
 
 # 8
 **Busca y enumera tres dialectos de XML que no conozcas hasta ahora, indicando para qué se utilizan.**
@@ -75,6 +72,7 @@ Los dialectos son variaciones sobre el lenguaje original enfocadas a optimizar p
 # 9. 
 **Halla en internet algún ejemplo de servicio web que proporcione datos en formato XML.**
 
+https://www.ciclismoafondo.es/uploads/mapsites/102_ciclismoafondo_es_2010_08.xml
 
 # 10
 **Busca en internet un servicio web que proporcione datos en formato JSON sobre**
@@ -90,6 +88,12 @@ https://damsanti.github.io/peliculas.html
 
 # 12
 **Busca en la web una fórmula expresada en MathML. Elabora un listado con al menos tres de las etiquetas que utiliza incluyendo su significado.**
+
+<mn> representa un valor numérico.
+
+<mo> representa un operador.
+
+<mi> representa un identificador, ya sea el nombre de una función, variables o constantes.
 
 
 # 13

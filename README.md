@@ -1,6 +1,6 @@
 ![GitHub](https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png)
 
-# Trabajo grupal para lenguaje de Marcas
+# Trabajo grupal para lenguaje de Marcas ( Adrián , Raúl y Santi )
 
 ## Índice
 
@@ -88,7 +88,7 @@ Los dialectos son variaciones sobre el lenguaje original enfocadas a optimizar p
 
 https://github.com/erik-sytnyk/movies-list/blob/master/db.json
 
-https:\\damsanti.github.io/peliculas.html
+https://damsanti.github.io/peliculas.html
 
 
 # 11
@@ -104,10 +104,3 @@ https:\\damsanti.github.io/peliculas.html
 
 Los espacios de nombres son uno de los pilares fundamentales de internet como lo conocemos y usamos diariamente. Los espacios de nombres permiten organizar items dentro de un entorno, permite agruparlos con una jerarquía y con identificadores
 unicos.
-
-
-## Enlaces
-
-- [Programacion](https://damsanti.github.io/programacion.html)
-- [Peliculas](https://damsanti.github.io/peliculas.html)
-- [Arquitectura Von-Newmann](https://damsanti.github.io/arquitectura.html)

@@ -8,7 +8,7 @@
 - [Peliculas](https://damsanti.github.io/peliculas.html)
 - [Arquitectura Von-Newmann](https://damsanti.github.io/arquitectura.html)
 
-## 1
+# 1
 **Explica en qué se diferencian HTML y XHTML.**
 A pesar de que los dos son lenguajes de marcas enfocados al almacenamiento y procesado, ambos lenguajes no parten de un origen común. Mientras que HTML está relacionado con SGML, XHTML lo está con XML. Además XHTML es un lenguaje más estricto y formal que XHTML.
 

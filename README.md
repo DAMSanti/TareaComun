@@ -4,12 +4,20 @@
 
 ## Índice
 
-- [Pregunta 1](#-1)
-- [Peliculas](https://damsanti.github.io/peliculas.html)
-- [Arquitectura Von-Newmann](https://damsanti.github.io/arquitectura.html)
+- [Pregunta 1](#1)
+- [Pregunta 2](#2)
+- [Pregunta 3](#3)
+- [Pregunta 4](#4)
+- [Pregunta 5](#5)
+- [Pregunta 6](#6)
+- [Pregunta 7](#7)
+- [Pregunta 8](#8)
+- [Pregunta 9](#9)
+
 
 # 1
 **Explica en qué se diferencian HTML y XHTML.**
+
 A pesar de que los dos son lenguajes de marcas enfocados al almacenamiento y procesado, ambos lenguajes no parten de un origen común. Mientras que HTML está relacionado con SGML, XHTML lo está con XML. Además XHTML es un lenguaje más estricto y formal que XHTML.
 
 ## 2. Enumera al menos tres de las características de los lenguajes de marcas.

@@ -49,7 +49,7 @@ sea una configuración o una lista, sin ningún detalle de cómo ejecutar dichas
 **Diseña un nuevo lenguaje de marcas. Debe permitir marcar un texto como importante, de color verde y escrito en idioma inglés**
 
 El nuevo lenguaje de marcas se llamara DAM, y para poder permitir marcar textos como importantes, de color ver y escrito en ingles usaremos lo siguiente:
-    -Para marcar un texto como importante, tendremos que añadir un * al principio y al final del texto para que todo lo que haya por medio nos lo marque como importante.
+    -Para marcar un texto como importante, tendremos que añadir un * al principio y al final * del texto para que todo lo que haya por medio nos lo marque como importante.
     Ejemplo: *Hola, soy un texto importante*
     
     -Para marcar el texto con color usaremos los colores con su código en hexadecimal,

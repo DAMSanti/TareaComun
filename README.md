@@ -28,37 +28,28 @@ A pesar de que los dos son lenguajes de marcas enfocados al almacenamiento y pro
 **Enumera al menos tres de las características de los lenguajes de marcas.**
 
 Algunas de las características más importantes de los lenguajes de marcas son:
--Tienen independencia, es decir, que sus uso no depende de ninguna plataforma   software ni hardware
+    -Tienen independencia, es decir, que sus uso no depende de ninguna plataforma   software ni hardware
 	-Los datos son almacenados en texto plano
--Tienen flexibilidad, es decir, que los lenguajes de marcas tienen que ser lo suficientemente flexibles como para poder utilizarse en diferentes contextos
+    -Tienen flexibilidad, es decir, que los lenguajes de marcas tienen que ser lo suficientemente flexibles como para poder utilizarse en diferentes contextos
 
 # 3
 **Elabora un resumen con la evolución cronológica de los lenguajes de marcas hasta llegar a HTML.**
 
-El orden cronológico sería primero el GML que lo creó IBM en 1969, luego el SGML (Standard Generalized Markup Language) se creó en 1986 por la ISO , el HTML se creó en 1992 y permite que el intercambio de información entre distintos sistemas sea posible
-independientemente del software o del hardware que tengan dichos sistemas.
+El orden cronológico sería primero el GML que lo creó IBM en 1969, luego el SGML (Standard Generalized Markup Language) se creó en 1986 por la ISO , el HTML se creó en 1992 y permite que el intercambio de información entre distintos sistemas sea posible independientemente del software o del hardware que tengan dichos sistemas.
+
 
 # 4
 **Explica brevemente las diferencias entre un lenguaje de marcas orientado a la**
 
-presentación de otro orientado al almacenamiento y procesado de la información.
-Una diferencia fundamental es la funcionalidad, mientras que un lenguaje orientado a la presentación de información incluye instrucciones no solo de los datos que ha de mostrar, si no de cómo ha de mostrarlos y su significado en la estructura.  Los orientados al almacenamiento y procesado de datos, sin embargo, sólo almacenan la información, ya
-sea una configuración o una lista, sin ningún detalle de cómo ejecutar dichas instrucciones.
+Una diferencia fundamental es la funcionalidad, mientras que un lenguaje orientado a la presentación de información incluye instrucciones no solo de los datos que ha de mostrar, si no de cómo ha de mostrarlos y su significado en la estructura.  Los orientados al almacenamiento y procesado de datos, sin embargo, sólo almacenan la información, ya sea una configuración o una lista, sin ningún detalle de cómo ejecutar dichas instrucciones.
+
 
 # 5
 **Diseña un nuevo lenguaje de marcas. Debe permitir marcar un texto como importante, de color verde y escrito en idioma inglés**
 
-El nuevo lenguaje de marcas se llamara DAM, y para poder permitir marcar textos como importantes, de color ver y escrito en ingles usaremos lo siguiente:
-
-    -Para marcar un texto como importante, tendremos que añadir un * al principio y al final del texto para que todo lo que haya por medio nos lo marque como importante.
-    Ejemplo: *Hola, soy un texto importante*
-    
-    -Para marcar el texto con color usaremos los colores con su código en hexadecimal,
-    principio pondremos <color#000000> y al final <color>. 
-    Por ejemplo para ponerlo de color verde seria <color#2ECC71>Hola, soy un texto de color verde<color>
-    Por ejemplo para tener un texto importan y en color verde habría que escribirlo de la siguiente manera:
-    <color#2ECC71>*Hola soy un texto importante y de color verde*<color>
-
+El nuevo lenguaje de marcas se llamara DAM, y para poder permitir marcar textos como importantes, de color verde y escrito en ingles usaremos lo siguiente:
+    -Para marcar un texto como importante, tendremos que añadir un * al principio y al final del texto para que todo lo que haya por medio nos lo marque como importante. Es un programa el que interpreta y pone en color verde todo el texto que está entre asteriscos.
+        Ejemplo: ![#c5f015] `Hola, soy un texto importante y de color ver` *Hola, soy un texto importante y de color ver*
 
 # 6
 **Entra en la página web del ayuntamiento de un municipio cualquiera, consulta el código fuente y busca un bloque de código HTML que incumpla con las normas de XML. Indica qué norma o normas incumplen.**
